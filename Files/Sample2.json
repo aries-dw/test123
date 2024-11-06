@@ -1,0 +1,16 @@
+ {
+   "SeedQty": 15,
+   "Moisture": 0.2,
+   "DaysCount": 124,
+   "Transplanting": 0,
+   "fertiliser": 3,
+   "service": 1,
+   "waterManagement": 0,
+   "ndvi_1": 0.201091,
+   "ndvi_2": 0.399355,
+   "ndvi_3": 0.535462,
+   "hurs": 95.43646225,
+   "pr": 0.000188903,
+   "svcwind": 2.012363496,
+   "tasmax": 307.1587104
+ }
